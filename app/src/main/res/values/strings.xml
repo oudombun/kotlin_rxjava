@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinMovie</string>
+    <string name="error_loading">Error Loading</string>
+</resources>
